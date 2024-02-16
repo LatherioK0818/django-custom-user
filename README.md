@@ -49,7 +49,3 @@ Refer to Lab Submission Instructions for detailed instructions.
 ### Stretch Goals
 - Create a Django application using DjangoX.
 - Style the form using Django Widget Tweaks.
-
----
-
-This README provides a structured overview of your lab project, including how to set it up, run it, and the key tasks involved. Remember to replace placeholders with actual links and details specific to your project where applicable.
